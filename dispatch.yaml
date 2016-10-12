@@ -1,0 +1,5 @@
+service : jidorang
+dispatch:
+  # Default module serves simple hostname request.
+  - url: "jidorang.onekwan.com/"
+    module: jidorang
